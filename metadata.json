@@ -1,0 +1,6 @@
+{
+  "name": "SheetExpense - AI Receipt Scanner & Sheets Hub",
+  "description": "Smart receipt scanner that parses expenses with AI and automatically logs them directly into Google Sheets with real-time analytics dashboards.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
